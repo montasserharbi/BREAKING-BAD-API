@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(/img.jpg);
+  background-size: cover;
+  background-position: center;
+  font-size: x-large;
+  color: rgba(231, 235, 238, 0.815);
+  text-align: center;
+  font-weight: 500;
+}
+.container {
+  color: rgb(253, 253, 253);
+  text-align: center;
+}
